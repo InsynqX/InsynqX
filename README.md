@@ -11,9 +11,6 @@ Welcome to my GitHub profile! I'm a Python enthusiast who loves to create projec
 - SQL / PostgreSQL (Databases)
 
 ## 🛠️ Current Projects
-
-- **[Project Name]**: Brief description of the project here.
-- **[Project Name]**: Another project description here.
   
 Feel free to check out my repositories to see the code I’m working on. Contributions are always welcome!
 
