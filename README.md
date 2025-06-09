@@ -26,7 +26,6 @@ Feel free to check out my repositories to see the code I’m working on. Contrib
 
 ## 🚀 How to Reach Me
 
-- Email: [YourEmail@example.com](mailto:youremail@example.com)
 - Twitter: [@InsynqX](https://twitter.com/InsynqX)
 - LinkedIn: [InsynqX](https://www.linkedin.com/in/InsynqX)
   
